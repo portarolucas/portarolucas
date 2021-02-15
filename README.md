@@ -5,18 +5,18 @@ I'm currently studying as a web developer at the University of Lorraine - IUT Na
 
 <hr>
 
-###### Contact me
+### Contact me
 
 📫 Send me an electronic bird at : portaro.lucas@gmail.com
 
 <hr>
 
-###### Stay connected with me
+### Stay connected with me
 
 - <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" height="25"/> <a href="https://gist.github.com/portarolucas">@portarolucas</a>
 - <img src="https://cdn0.iconfinder.com/data/icons/flat-social-media-icons-set-round-style-1/550/linkedin-512.png" width="25" height="25"/> <a href="https://www.linkedin.com/in/lucas-portaro-00b68b165/">Lucas PORTARO</a>
 
 <hr>
 
-###### Personnal website
+### Personnal website
 🌐 https://wwww.portarolucas.fr
