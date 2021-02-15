@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25"/>
 
-<!--
-**portarolucas/portarolucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developper, passionate by the new technologies and the web and mobile devlopment.
+I'm currently studying as a web developer at the University of Lorraine - IUT Nancy Charlemagne (name of the stud : Licence CIASIE).
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
