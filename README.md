@@ -20,4 +20,4 @@ I'm currently studying as a web developer at the University of Lorraine - IUT Na
 <hr>
 
 ### Personnal website
-🌐 https://wwww.portarolucas.fr
+🌐 https://www.portarolucas.fr
