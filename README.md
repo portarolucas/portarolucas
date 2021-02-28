@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Lucas <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25"/>
 
-Fullstack developper, passionate by the new technologies and the web and mobile devlopment.
+Fullstack developer, passionate by the new technologies and the web and mobile devlopment.
 I'm currently studying as a web developer at the University of Lorraine - IUT Nancy Charlemagne.
 
 <hr>
